@@ -45,6 +45,14 @@ h5{
     height:500px;
 }
 
-p span{
-    
+.text{
+    margin:20px;
+}
+.text p span{
+    background-color:rgb(243,243,0);
+}
+
+.list{
+
+    margin:20px;
 }
