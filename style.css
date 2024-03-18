@@ -54,5 +54,28 @@ h5{
 
 .list{
 
-    margin:20px;
+    margin-left:20px;
+}
+
+main{
+    margin: 10px 10px;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+table .head_row {
+    background-color:rgb(78,160,255);
+    color: white;
+    text-align:left;
+}
+
+tr .data{
+    width:600px;
+}
+
+.color-data_row{
+    background-color:rgb(177,229,242);
 }
