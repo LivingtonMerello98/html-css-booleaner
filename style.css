@@ -18,3 +18,17 @@
     height:auto;
     margin:112px 10px;
 }
+
+#title{
+    font-size:40px;
+    margin:5px;
+}
+
+h5{
+    font-size:14px;
+    color:rgb(128,128,128);
+}
+
+.subtitle span{
+    color:rgb(78,160,255);
+}
