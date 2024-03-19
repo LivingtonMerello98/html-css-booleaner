@@ -5,7 +5,7 @@
 }
 
 .header-container{
-    background-image: url("./img/pattern.png");
+    background-image: url("../img/pattern.png");
     background-repeat: repeat;
     background-color: rgb(78,160,255);
     text-align:left;
@@ -16,7 +16,7 @@
 .logo{
     width:300px;
     height:auto;
-    margin:112px 0px;
+    margin:112px 50px;
 }
 
 #title{
@@ -61,8 +61,8 @@ h5{
     margin:50px 20px;
 }
 
-main{
-    margin: 50px 10px;
+.content{
+    margin: 0px 50px;
 }
 
 table{
@@ -85,7 +85,7 @@ tr .data{
 }
 
 .bg-image{
-    background-image:url("./img/monitor.jpg");
+    background-image:url("../img/monitor.jpg");
     background-size:cover;
     width: 300px;
     height:300px;
@@ -101,7 +101,7 @@ tr .data{
 }
 
 .bg-image2{
-    background-image:url("./img/graph.jpg");
+    background-image:url("../img/graph.jpg");
     background-size:cover;
     width: 300px;
     height:300px;
